@@ -4,7 +4,7 @@ layout: default
 
 # UW-Madison Courses
 
-Listed below are all the courses that I have taken, or am taking, here at Madison.  If you're interested, I've also listed [every course](/undergradcourses.html) that I took in undergrad at [Gustavus Adolphus College](http://www.gustavus.edu).
+Listed below are all the courses that I have taken, or am taking, here at Madison.  If you're interested, I've also listed [every course]({{ "/undergradcourses.html" | relative_url}}) that I took in undergrad at [Gustavus Adolphus College](http://www.gustavus.edu).
 
 ### Fall '08
 CS540 - Artificial Intelligence  

@@ -7,8 +7,8 @@ layout: default
 **Machine Learning for Medical Decision Support and Individualized Treatment Assignment**  
 Kuusisto F  
 *University of Wisconsin-Madison department of Computer Sciences*, 2015.  
-([paper](/uploads/kuusisto.thesis.pdf),
-[slides](/uploads/kuusisto.defense.pdf))
+([paper]({{ "/uploads/kuusisto.thesis.pdf" | relative_url }}),
+[slides]({{ "/uploads/kuusisto.defense.pdf" | relative_url }}))
 
 # Preprints
 
@@ -46,48 +46,48 @@ Movaghar A, Page D, Brilliant M, Baker M, Greenberg J, Hong J, DaWalt L, Saha K,
 Kleiman R\*, Kuusisto F\*, Ross I, Peissig P, Stewart R, Page D, Weiss J  
 *AMIA Informatics Summit*, San Francisco, USA, 2019.  
 \* These authors contributed equally  
-([paper](/uploads/amiainfosummit19_paper.pdf))
+([paper]({{ "/uploads/amiainfosummit19_paper.pdf" | relative_url }}))
 
 **A Simple Text Mining Approach for Ranking Pairwise Associations in Biomedical Applications**  
 Kuusisto F, Steill J, Kuang Z, Thomson J, Page D, Stewart R  
 *AMIA Joint Summits on Translational Science*, San Francisco, USA, 2017.  
-([paper](/uploads/amiacri17_paper.pdf),
-[slides](/uploads/amiacri17_presentation.pdf))
+([paper]({{ "/uploads/amiacri17_paper.pdf" | relative_url }}),
+[slides]({{ "/uploads/amiacri17_presentation.pdf" | relative_url }}))
 
 **Machine Learning for Treatment Assignment: Improving Individualized Risk Attribution**  
 Weiss J, Kuusisto F, Boyd K, Liu J, Page D  
 *AMIA Annual Symposium*, San Francisco, USA, 2015.  
-([paper](/uploads/amia15_ite_paper.pdf))
+([paper]({{ "/uploads/amia15_ite_paper.pdf" | relative_url }}))
 
 **Leveraging Expert Knowledge to Improve Machine-Learned Decision Support Systems**  
 Kuusisto F, Dutra I, Elezaby M, Mendonca E, Shavlik J, and Burnside ES  
 *AMIA Joint Summits on Translational Science*, San Francisco, USA, 2015.  
-([paper](/uploads/amiacri15_paper.pdf),
-[slides](/uploads/amiacri15_presentation.pdf))
+([paper]({{ "/uploads/amiacri15_paper.pdf" | relative_url }}),
+[slides]({{ "/uploads/amiacri15_presentation.pdf" | relative_url }}))
 
 **Support Vector Machines for Differential Prediction**  
 Kuusisto F, Santos Costa V, Nassif H, Burnside ES, Page D, and Shavlik J  
 *European Conference on Machine Learning (ECML'14)*, Nancy, France, 2014.  
-([paper](/uploads/ecml14_svm_paper.pdf),
-[poster](/uploads/ecml14_svm_poster.pdf),
-[slides](/uploads/ecml14_svm_presentation.pdf),
-[synthetic data](/uploads/simcustomer_dataset.zip),
-[code](/uploads/svm_upl.zip))
+([paper]({{ "/uploads/ecml14_svm_paper.pdf" | relative_url }}),
+[poster]({{ "/uploads/ecml14_svm_poster.pdf" | relative_url }}),
+[slides]({{ "/uploads/ecml14_svm_presentation.pdf" | relative_url }}),
+[synthetic data]({{ "/uploads/simcustomer_dataset.zip" | relative_url }}),
+[code]({{ "/uploads/svm_upl.zip" | relative_url }}))
 
 **Using Machine Learning to Identify Benign Cases with Non-Definitive Biopsy**  
 Kuusisto F, Dutra I, Nassif H, Wu Y, Klein ME, Neuman HB, Shavlik J, and Burnside ES  
 *IEEE 15<sup>th</sup> International Conference on e-Health Networking, Applications & Services (Healthcom'13)*, Lisbon, Portugal, 2013.  
-([paper](/uploads/Healthcom13.pdf))
+([paper]({{ "/uploads/Healthcom13.pdf" | relative_url }}))
 
 **Score As You Lift (SAYL): A Statistical Relational Learning Approach to Uplift Modeling**  
 Nassif H, Kuusisto F, Burnside ES, Page D, Shavlik J, and Santos Costa V  
 *European Conference on Machine Learning (ECML'13)*, Prague, Czech Republic, 2013.  
-([paper](/uploads/ECML13.pdf))
+([paper]({{ "/uploads/ECML13.pdf" | relative_url }}))
 
 **Uplift Modeling with ROC: An SRL Case Study**  
 Nassif H, Kuusisto F, Burnside ES, and Shavlik J  
 *International Conference on Inductive Logic Programming (ILP'13)*, Rio de Janeiro, Brazil, 2013.  
-([paper](/uploads/ILP13.pdf))
+([paper]({{ "/uploads/ILP13.pdf" | relative_url }}))
 
 # Abstracts
 **Core Needle Biopsies: A Predictive Model that Identifies Low Probability (&#8804;2%) Lesions to Safely Avoid Surgical Excision**  
