@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/~finn/sitemap.xml
+Sitemap: https://pages.cs.wisc.edu/~finn/sitemap.xml
